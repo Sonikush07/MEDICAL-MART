@@ -1,0 +1,45 @@
+#carouselExampleFade {
+    padding-top: 10px;
+}
+
+#image {
+    height: 40px;
+    display: inline;
+    padding-bottom: 5px;
+}
+
+#cards {
+    padding: 10px;
+}
+
+#icon {
+    height: 32px;
+    width: 32px;
+}
+
+#product {
+    padding-right: 50px;
+}
+
+#border {
+    border: rgb(1, 186, 1);
+}
+
+#heading {
+    padding: 10px;
+}
+
+#offers {
+    padding: 40px;
+}
+
+.btn {
+    background-color: #0d8592;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.outline {
+    background-color: #0d8592;
+}
