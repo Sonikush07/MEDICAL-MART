@@ -4,11 +4,9 @@
 ![](project-images/main.png)
 ## Functionality
 * ### user log in :
-![![Uploading image.png…]()
-](project-images/user_login.png)
+![](project-images/user_login.png)
 * ### user sign up :
-![![Uploading image.png…]()
-](project-images/user_signup.png)
+![](project-images/user_signup.png)
 * ### search :
 ![](project-images/search_products.png)
 * ### product :
