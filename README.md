@@ -1,5 +1,5 @@
 # medical-mart.com
-## This project was made for DBMS laboratory subject as a mini project by usining pure php language for 5th semester , which it represent an online pharmacy store.
+## This project was made for DBMS laboratory subject as a mini project by usining pure php language for 6th semester #MY LAST YEAR College Project, which it represent an online pharmacy store.
 ## Main page:
 ![](project-images/main.png)
 ## Functionality
